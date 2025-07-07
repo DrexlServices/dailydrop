@@ -1,5 +1,7 @@
 {
-  "title": "You Are Not Alone",
-  "description": "A strange message found behind a painting in Berlin, 1997.",
-  "image_url": "https://picsum.photos/300"
+  "joke": "Why don't skeletons fight? They don't have the guts.",
+  "quote": "Art enables us to find ourselves and lose ourselves at the same time. – Thomas Merton",
+  "artwork_url": "https://raw.githubusercontent.com/YourUser/daily-drop/main/art.jpg",
+  "member_count": "2,000",
+  "member_cap": "500,000"
 }
